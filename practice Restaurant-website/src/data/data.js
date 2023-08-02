@@ -5,6 +5,7 @@ import MasalaDosa from "../images/masala.jpg";
 import Paneer from "../images/paneer.jpg";
 import Gujrati from "../images/gujrati.jpeg";
 
+
 export const MenuList = [
   {
     name: "Dosa",
@@ -49,3 +50,4 @@ export const MenuList = [
     price: 500,
   },
 ];
+

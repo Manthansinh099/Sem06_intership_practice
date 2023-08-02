@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "./../components/Layout/Layout";
 import { Link } from "react-router-dom";
-import Banner from "../images/banner.jpeg";
+// import Banner from "../images/banner.jpeg";
 import food from "../images/food4.jpg";
 import "../styles/HomeStyles.css";
 
