@@ -8,44 +8,44 @@ import Gujrati from "../images/gujrati.jpeg";
 
 export const MenuList = [
   {
-    name: "Dosa",
+    name: "Dosa  ",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Rs.200",
     image: Dosa,
     price: 200,
   },
   {
-    name: "Chola",
+    name: "Chola ",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Rs.250",
     image: Chola,
     price: 250,
   },
   {
-    name: "Idli Sambhar",
+    name: "Idli Sambhar ",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Rs.300",
     image: Idli,
     price: 300,
   },
   {
     name: "Masala Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Rs.100",
     image: MasalaDosa,
     price: 100,
   },
   {
-    name: "Paneer",
+    name: "Paneer ",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Rs.400",
     image: Paneer,
     price: 400,
   },
   {
-    name: "Gujrati Thali",
+    name: "Gujrati Thali ",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Rs.500",
     image: Gujrati,
     price: 500,
   },

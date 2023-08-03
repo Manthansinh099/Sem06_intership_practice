@@ -28,7 +28,7 @@ const About = () => {
       >
         <Typography variant="h4">Welcome To My Restaurant</Typography>
         <p>
-         a to z 😅
+         write owner info and about Restaurant 
         </p>
         <br />
        
